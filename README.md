@@ -1,4 +1,5 @@
-## This repo has been built following https://docs.cosmwasm.com/dev-academy/develop-smart-contract/develop and adding some custom node js tests to see if it works on testnet properly
+This repo has been built following https://docs.cosmwasm.com/dev-academy/develop-smart-contract/develop
+and adding some custom node js tests to see if it works on testnet properly
 
 # CosmWasm Starter Pack
 
