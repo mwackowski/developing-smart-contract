@@ -1,0 +1,1 @@
+575a1c15f06ee9e3b27fce7de5d0e7144c6500f0a664a235117c4b0b4000e36e  ./target/wasm32-unknown-unknown/release/cargo_generated_contract.wasm

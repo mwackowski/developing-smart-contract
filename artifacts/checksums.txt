@@ -1,0 +1,1 @@
+4afeeb598f81b86153dfabb5a8924c3b1e745d841feedfb366432398371c3188  cargo_generated_contract.wasm
